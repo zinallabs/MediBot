@@ -1,4 +1,4 @@
-# Medical RAG System — Project 1
+# Medical RAG System 
 
 A production-style Retrieval-Augmented Generation (RAG) system for medical Q&A,
 built to demonstrate real AI engineering skills for the healthcare domain.
